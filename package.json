@@ -1,0 +1,24 @@
+{
+  "name": "tbook",
+  "version": "1.0.0",
+  "description": "GITBOOK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+
+    "type": "git",
+    "url": "git+https://github.com/tangbofan/tbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangbofan/tbook/issues"
+  },
+  "homepage": "https://github.com/tangbofan/tbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
